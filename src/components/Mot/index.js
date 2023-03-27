@@ -1,0 +1,1 @@
+export { Mot } from "./Mot";

@@ -1,0 +1,31 @@
+.titre {
+    color: #d6d6d6;
+    text-align: center;
+}
+
+.erreurs {
+    color: #d6d6d6;
+}
+
+.contain-score {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.score {
+    color: #d6d6d6;
+    font-size:x-large;
+    font-weight: bold;
+}
+
+.rejouer {
+    background-color: #2c2b30;
+    border-color: #d6d6d6;
+    color: #d6d6d6;
+    font-size: larger;
+    padding: 10px;
+    border-radius: 10%;
+}
