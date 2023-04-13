@@ -20,16 +20,3 @@ Hook react, map, components, props, et autres méthodes ont permis de faire un c
 Le pendu est fonctionnel et affiche le bon nombre d'espace pour le mot affiché. L'utilisateur peut entrer des lettres grâce au clavier virtuel, et le jeu se met à jour pour afficher le bon mot.
 
 Le jeu gère les erreurs correctement, et affiche les bon messages d'erreur.
-
-### Features en plus :
-
-Nombre de coups utilisé sur le total
-Clavier virtuel permettant une approche plus ludique qur le clavier réel
-
-#### Qualité du code
-
-Le code est strucutré en plusieurs fichiers facile à lire, les noms des variables sont cohérents et les pratiques correctes de React sont mise en place (Hook, components...).
-
-#### Design du jeu
-
-Le design n'a pas encore été fait, en cours
